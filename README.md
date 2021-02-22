@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello there
 
-<!--
-**danielwiktorczyk/danielwiktorczyk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Daniel, and I'm a 4th year Co-op Software Engineering Student at Concordia University. 
 
-Here are some ideas to get you started:
+I love games of all kinds, and have always wanted to find out how they were made. Lately, I've been persuing that, and am climbing the ropes and looking to make game development my future. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've done a few projects here and there, but I pinned the coolest ones if you would like to check them out. 
+
+<!--Check out my github-->
+
+- 🔭 I’m currently working on a few game projects, including one for the Ubisoft Gamelab 2021 competition, and some AI in games with my Advanced Game development class
+- 🌱 I’m currently learning the ins and outs of Unity, C#, and .Net
+- 📫 Here are some other places you can find me! [linkedin](https://www.linkedin.com/in/danielwiktorczyk/) 
